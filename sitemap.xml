@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://scoutterraparts.com/</loc></url>
-<url><loc>https://scoutterraparts.com/best-bed-accessories.html</loc></url>
-<url><loc>https://scoutterraparts.com/best-storage-accessories.html</loc></url>
-<url><loc>https://scoutterraparts.com/best-protection-accessories.html</loc></url>
-<url><loc>https://scoutterraparts.com/buyers-guide.html</loc></url>
-  <url><loc>https://scoutterraparts.com/contact.html</loc><lastmod>2026-04-20</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url>
+    <loc>https://scoutterraparts.com/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://scoutterraparts.com/about.html</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://scoutterraparts.com/contact.html</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
